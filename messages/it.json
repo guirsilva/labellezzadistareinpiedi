@@ -1,0 +1,915 @@
+{
+  "meta": {
+    "siteName": "Fondazione La Bellezza di Stare in Piedi",
+    "description": "Finanziamo protesi e riabilitazione per ampliare le possibilità dopo l’amputazione."
+  },
+  "nav": {
+    "home": "Home",
+    "transparency": "Trasparenza",
+    "stories": "Storie",
+    "contact": "Contatti",
+    "partners": "Partner",
+    "donate": "Dona",
+    "help": "Ho bisogno di aiuto",
+    "languages": {
+      "pt": "PT",
+      "it": "IT"
+    }
+  },
+  "ui": {
+    "openMenu": "Apri il menu",
+    "closeMenu": "Chiudi il menu",
+    "mainNav": "Navigazione principale",
+    "language": "Lingua",
+    "languageNames": {
+      "pt": "Portoghese",
+      "it": "Italiano"
+    },
+    "back": "Indietro",
+    "logoAlt": "Logo della Fondazione La Bellezza di Stare in Piedi",
+    "next": "Avanti",
+    "previousStep": "Torna alla fase precedente",
+    "required": "Campo obbligatorio",
+    "invalidEmail": "Inserisci un indirizzo e-mail valido",
+    "selectAtLeastOne": "Seleziona almeno un’opzione",
+    "otherPlaceholder": "Quale?",
+    "optional": "Facoltativo",
+    "photoOf": "Foto di {name}",
+    "notFoundTitle": "Pagina non trovata",
+    "backHome": "Torna alla Home"
+  },
+  "home": {
+    "hero": {
+      "title": "Dall’Italia al Brasile, per la bellezza di andare avanti.",
+      "subtitle": "Finanziamo protesi e riabilitazione per ampliare le possibilità dopo l’amputazione.",
+      "ctaHelpUs": "Voglio aiutare",
+      "ctaNeedHelp": "Ho bisogno di aiuto"
+    },
+    "institutional": {
+      "foundation": "Fondazione italiana ETS",
+      "registeredPrefix": "Iscritta al",
+      "runts": "RUNTS",
+      "runtsTooltip": "Registro Ufficiale del Terzo Settore italiano",
+      "seat": "Sede a Bergamo",
+      "operation": "Attività in Brasile"
+    },
+    "whatWeDo": {
+      "title": "Cosa facciamo",
+      "lead": "Una protesi è parte del percorso. Non la sua fine.",
+      "text": "La Bellezza di Stare in Piedi mette in connessione risorse, tecnologia protesica, cliniche specializzate e persone per rendere possibile l’accesso a una protesi. Ma il nostro lavoro non finisce con la consegna.",
+      "pillars": [
+        {
+          "title": "Tecnologia Protesica",
+          "text": "Finanziamo protesi e componenti in base alle necessità di ciascuna persona e alle risorse disponibili per il trattamento."
+        },
+        {
+          "title": "Riabilitazione",
+          "text": "La protesizzazione comprende il processo di adattamento e riabilitazione svolto insieme alle cliniche responsabili del trattamento."
+        },
+        {
+          "title": "Continuità",
+          "text": "Seguiamo i percorsi anche dopo la consegna, perché l’impatto di una protesi si vede in ciò che rende possibile nella vita reale."
+        }
+      ]
+    },
+    "italyBrazil": {
+      "title": "Italia + Brasile",
+      "lead": "Una Fondazione italiana. Un impatto che attraversa i confini.",
+      "paragraphs": [
+        "La Bellezza è nata in Italia, ma porta con sé un legame profondo con il Brasile.",
+        "La storia della nostra fondatrice, brasiliana di origine e italiana di adozione, ha avvicinato due realtà e ha dato vita a una missione: ampliare l’accesso delle persone amputate alla tecnologia protesica e alla riabilitazione.",
+        "Oggi questo ponte unisce persone, risorse, cliniche e storie tra i due Paesi."
+      ]
+    },
+    "whoWeAre": {
+      "title": "Chi siamo",
+      "story": {
+        "title": "Una storia personale diventata una missione collettiva",
+        "paragraphs": [
+          "La Bellezza di Stare in Piedi è nata dall’incontro tra un’esperienza profondamente personale e una realtà che ancora limita l’accesso di molte persone alla tecnologia protesica.",
+          "Nell’aprile 2025, a Bergamo, Maria Aparecida Freire Coutinho, Bia, ha subito un grave incidente che ha portato all’amputazione della gamba destra.",
+          "Da quel momento è iniziato un nuovo rapporto con il proprio corpo, con la mobilità e con tutto ciò che c’è dietro una protesizzazione.",
+          "Ma è stato proprio durante questo percorso che una domanda ha iniziato a farsi strada:"
+        ],
+        "question": "E chi non ha accesso alle stesse possibilità?"
+      },
+      "purpose": {
+        "title": "Dall’esperienza allo scopo",
+        "paragraphs": [
+          "Bia è brasiliana di origine e ha costruito la sua vita in Italia.",
+          "Vivendo in prima persona il processo di amputazione, protesizzazione e riabilitazione, si è avvicinata ancora di più a una realtà che già conosceva: per molte persone in Brasile, l’accesso a una protesi adeguata può essere ancora difficile, costoso o semplicemente lontano.",
+          "La sua esperienza ha smesso di essere soltanto una storia individuale.",
+          "Ha iniziato a trasformarsi in un modo per creare strade per altre persone."
+        ],
+        "closing": "Così è nata la Fondazione La Bellezza di Stare in Piedi."
+      },
+      "moreThan": {
+        "title": "Più che finanziare una protesi",
+        "intro": "Una protesi può rappresentare cose diverse per ciascuna persona.",
+        "meanings": [
+          "Per qualcuno può significare più sicurezza nel camminare.",
+          "Per un’altra persona, tornare in palestra.",
+          "Per un’altra, più indipendenza nella vita quotidiana.",
+          "Per un’altra ancora, semplicemente provare qualcosa che non era ancora riuscita a vivere."
+        ],
+        "text": "Per questo La Bellezza crede che ogni percorso debba essere considerato in modo individuale.",
+        "quote": "La protesi è lo strumento. La storia è ciò che restituisce."
+      },
+      "network": {
+        "title": "Una rete che rende possibile ogni percorso",
+        "paragraphs": [
+          "Nessuna di queste storie accade da sola.",
+          "La Fondazione opera insieme a cliniche specializzate, professionisti, donatori, aziende e persone che scelgono di contribuire per rendere possibili nuovi trattamenti."
+        ],
+        "rolesIntro": "Ogni parte di questa rete ha un ruolo.",
+        "roles": [
+          "La Fondazione mobilita e indirizza le risorse.",
+          "Le cliniche si occupano della valutazione protesica, della realizzazione, delle regolazioni e della riabilitazione.",
+          "E le persone sostenute continuano a essere le protagoniste delle proprie storie."
+        ]
+      },
+      "founder": {
+        "title": "Chi c’è dietro la Fondazione",
+        "name": "Maria Aparecida Freire Coutinho",
+        "role": "Fondatrice e Presidente",
+        "photoName": "Bia",
+        "paragraphs": [
+          "L’esperienza personale di Bia con l’amputazione ha dato origine all’idea che sarebbe diventata La Bellezza di Stare in Piedi.",
+          "Oggi il suo ruolo va oltre la sua stessa storia.",
+          "Alla guida della Fondazione, lavora per mettere in connessione persone, risorse e opportunità tra Italia e Brasile."
+        ]
+      },
+      "beauty": {
+        "title": "La bellezza di andare avanti",
+        "paragraphs": [
+          "Il nome della Fondazione parla dello stare in piedi.",
+          "Ma, per noi, questo non ha mai significato soltanto camminare."
+        ],
+        "list": [
+          "Significa avere delle scelte.",
+          "Avere accesso.",
+          "Avere autonomia.",
+          "Continuare a costruire progetti."
+        ],
+        "closing": "E scoprire che ci sono ancora tanti prossimi passi possibili.",
+        "ctaHelpUs": "Voglio aiutare",
+        "ctaStories": "Scopri le storie"
+      }
+    },
+    "howWeHelp": {
+      "title": "Come aiutiamo",
+      "intro": {
+        "title": "Ogni percorso inizia in modo diverso",
+        "paragraphs": [
+          "Non esiste un’unica storia, un’unica necessità o un’unica soluzione.",
+          "Per questo ogni richiesta ricevuta da La Bellezza di Stare in Piedi viene analizzata individualmente.",
+          "Teniamo conto delle necessità della persona, della complessità della protesizzazione, del costo del trattamento e delle risorse disponibili in quel momento.",
+          "L’obiettivo è indirizzare le risorse della Fondazione per rendere possibili trattamenti che abbiano davvero senso per ogni realtà."
+        ]
+      },
+      "howItWorks": {
+        "title": "Come funziona",
+        "steps": [
+          {
+            "title": "Conosciamo la storia",
+            "paragraphs": [
+              "Il primo passo è capire chi sta cercando aiuto, qual è la situazione attuale e qual è la necessità principale.",
+              "A partire da queste informazioni, la Fondazione può valutare se il caso può proseguire verso un’analisi più approfondita."
+            ],
+            "bullets": [],
+            "after": []
+          },
+          {
+            "title": "Valutiamo la necessità",
+            "paragraphs": [
+              "Ogni caso viene analizzato individualmente.",
+              "Consideriamo fattori come:"
+            ],
+            "bullets": [
+              "tipo di necessità protesica;",
+              "complessità del trattamento;",
+              "costo stimato;",
+              "momento della persona;",
+              "risorse disponibili nella Fondazione."
+            ],
+            "after": [
+              "Non esiste un ordine automatico né una lista d’attesa basata solo sulla data della richiesta.",
+              "Ogni situazione viene valutata in base alla realtà di quel momento."
+            ]
+          },
+          {
+            "title": "Colleghiamo il trattamento alla clinica",
+            "paragraphs": [
+              "Quando un caso viene approvato, la Fondazione indirizza la persona verso una delle cliniche con cui collabora.",
+              "Sono le équipe specializzate a occuparsi della valutazione protesica, dei calchi, delle prove, delle regolazioni e del processo di adattamento."
+            ],
+            "bullets": [],
+            "after": []
+          },
+          {
+            "title": "La Fondazione finanzia la protesi",
+            "paragraphs": [
+              "La Bellezza rende possibile, dal punto di vista economico, la protesi o il componente approvato per quel trattamento.",
+              "Le risorse sono destinate direttamente al processo svolto dalla clinica.",
+              "La persona beneficiaria non riceve il denaro.",
+              "In questo modo possiamo seguire con maggiore chiarezza come vengono impiegate le risorse e in quale fase del trattamento vengono utilizzate."
+            ],
+            "bullets": [],
+            "after": []
+          },
+          {
+            "title": "La riabilitazione fa parte del processo",
+            "paragraphs": [
+              "Ricevere una protesi non significa semplicemente indossarla e mettersi a camminare.",
+              "C’è un periodo di adattamento.",
+              "La persona deve imparare a conoscere il nuovo dispositivo, regolare i movimenti, acquisire sicurezza e adattare la protesi alla propria vita quotidiana.",
+              "Per questo la riabilitazione necessaria perché la persona concluda il percorso protesizzata fa già parte del trattamento svolto dalla clinica."
+            ],
+            "bullets": [],
+            "after": []
+          },
+          {
+            "title": "Il percorso continua",
+            "paragraphs": [
+              "Il nostro lavoro non deve finire quando la protesi viene consegnata.",
+              "Continuiamo a seguire le storie, i progressi, le difficoltà e i prossimi traguardi.",
+              "È in quel momento che riusciamo a vedere l’impatto reale della tecnologia.",
+              "Non solo nel dispositivo ricevuto, ma in ciò che inizia a essere possibile dopo."
+            ],
+            "bullets": [],
+            "after": []
+          }
+        ]
+      },
+      "ctaStories": "Scopri le storie"
+    },
+    "impact": {
+      "title": "Impatto",
+      "lead": "L’impatto non è soltanto ciò che consegniamo. È ciò che continua ad accadere dopo.",
+      "intro": "Ogni protesi finanziata rappresenta un percorso diverso.",
+      "items": [
+        "Un allenamento che prima sembrava lontano.",
+        "Un nuovo rapporto con il proprio corpo.",
+        "Più sicurezza nei movimenti.",
+        "Più indipendenza nella vita quotidiana."
+      ],
+      "closing": "Per questo, oltre a mostrare ciò che finanziamo, vogliamo seguire ciò che questo accesso rende possibile."
+    },
+    "finalCta": {
+      "title": "Ci sono ancora tanti prossimi passi che aspettano di iniziare.",
+      "text": "Una donazione, una collaborazione o una condivisione possono avvicinare una nuova persona all’accesso alla tecnologia protesica e alla riabilitazione.",
+      "ctaHelpUs": "Voglio aiutare",
+      "ctaStories": "Scopri le storie"
+    }
+  },
+  "footer": {
+    "name": "Fondazione La Bellezza di Stare in Piedi ETS",
+    "address": "Via G. e G. Paglia, 3/A",
+    "fiscalCode": "Codice Fiscale 95268550167",
+    "seat": "Sede a Bergamo, Italia",
+    "phoneLabel": "Telefono:",
+    "phone": "+39 338 2475888",
+    "emailLabel": "E-mail:",
+    "email": "labellezzadistareinpiedi@gmail.com",
+    "instagramLabel": "Instagram:",
+    "instagram": "@labellezzadistareinpiedi",
+    "privacy": "Privacy & Cookie Policy",
+    "transparency": "Trasparenza",
+    "help": "Ho bisogno di aiuto"
+  },
+  "donate": {
+    "title": "Sostieni la missione",
+    "intro": "Ogni donazione aiuta ad ampliare la capacità de La Bellezza di Stare in Piedi di finanziare protesi, componenti protesici e percorsi di riabilitazione.",
+    "chooseItaly": "Dona dall’Italia",
+    "chooseBrazil": "Dona dal Brasile",
+    "italy": {
+      "holderLabel": "Titolare/Beneficiario:",
+      "holder": "LA BELLEZZA DI STARE IN PIEDI",
+      "ibanLabel": "IBAN:",
+      "iban": "IT05R0844111100000000064763",
+      "copyIban": "Copia IBAN",
+      "ibanCopied": "IBAN COPIATO ✓",
+      "howTo": {
+        "title": "Come donare tramite bonifico",
+        "steps": [
+          {
+            "text": "Apri l’app o l’internet banking della tua banca.",
+            "lines": [],
+            "copy": null
+          },
+          {
+            "text": "Vai su *Bonifici / Pagamenti*.",
+            "lines": [],
+            "copy": null
+          },
+          {
+            "text": "Seleziona *Nuovo bonifico* o *Bonifico SEPA*.",
+            "lines": [],
+            "copy": null
+          },
+          {
+            "text": "Inserisci come beneficiario:",
+            "lines": [
+              "LA BELLEZZA DI STARE IN PIEDI",
+              "IBAN: IT05R0844111100000000064763"
+            ],
+            "copy": null
+          },
+          {
+            "text": "Scegli l’importo che desideri donare.",
+            "lines": [],
+            "copy": null
+          },
+          {
+            "text": "Nella causale inserisci:",
+            "lines": [
+              "Erogazione liberale - Fondazione La Bellezza di Stare in Piedi ETS"
+            ],
+            "copy": {
+              "label": "Copia causale",
+              "value": "Erogazione liberale - Fondazione La Bellezza di Stare in Piedi ETS",
+              "toast": "CAUSALE COPIATA ✓"
+            }
+          },
+          {
+            "text": "Controlla i dati e conferma il bonifico.",
+            "lines": [],
+            "copy": null
+          }
+        ]
+      },
+      "after": {
+        "title": "Dopo la donazione",
+        "text": "Puoi richiedere la ricevuta via e-mail cliccando sul pulsante qui sotto",
+        "cta": "Richiedi la ricevuta"
+      },
+      "receiptForm": {
+        "fields": {
+          "firstName": "Nome",
+          "lastName": "Cognome",
+          "fiscalCode": "Codice Fiscale",
+          "email": "E-mail",
+          "amount": "Importo donato",
+          "date": "Data del bonifico",
+          "attachment": "Contabile del bonifico (allegato facoltativo)"
+        },
+        "consent": {
+          "before": "Acconsento al trattamento dei miei dati personali da parte della Fondazione La Bellezza di Stare in Piedi ETS ai fini dell'emissione della ricevuta, secondo quanto indicato nell'",
+          "link": "Informativa sulla privacy",
+          "after": "."
+        },
+        "submit": "Invia richiesta",
+        "success": {
+          "title": "Richiesta ricevuta ✓",
+          "text": "Grazie! Ti invieremo la ricevuta all'indirizzo e-mail indicato."
+        },
+        "ui": {
+          "required": "Campo obbligatorio",
+          "invalidEmail": "Inserisci un indirizzo e-mail valido",
+          "chooseFile": "Scegli file",
+          "noFile": "Nessun file selezionato"
+        }
+      },
+      "tax": {
+        "title": "Benefici fiscali",
+        "lead": "La tua donazione può dare diritto a benefici fiscali in Italia.",
+        "paragraphs": [
+          "Le donazioni effettuate a favore della Fondazione La Bellezza di Stare in Piedi ETS possono rientrare nelle agevolazioni fiscali previste dalla normativa italiana per le erogazioni liberali agli Enti del Terzo Settore.",
+          "Le modalità e la percentuale applicabili possono variare in base al profilo del donatore e alla tipologia della donazione.",
+          "Per verificare quale agevolazione si applica al tuo caso, rivolgiti a un CAF o a un professionista fiscale."
+        ],
+        "link": "Scopri di più sui benefici fiscali"
+      }
+    },
+    "brazil": {
+      "intro": "Dal Brasile è possibile sostenere la Fondazione tramite un bonifico internazionale in euro sul conto italiano.",
+      "stepsTitle": "Passo dopo passo:",
+      "steps": [
+        {
+          "text": "Apri la tua banca o la piattaforma di trasferimento internazionale.",
+          "lines": [],
+          "copy": null
+        },
+        {
+          "text": "Cerca Bonifico internazionale / Invia denaro all’estero / Cambio.",
+          "lines": [],
+          "copy": null
+        },
+        {
+          "text": "Seleziona:",
+          "lines": ["Paese: Italia", "Valuta: EUR"],
+          "copy": null
+        },
+        {
+          "text": "Beneficiario:",
+          "lines": ["LA BELLEZZA DI STARE IN PIEDI"],
+          "copy": null
+        },
+        {
+          "text": "IBAN:",
+          "lines": ["IT05R0844111100000000064763"],
+          "copy": {
+            "label": "Copia IBAN",
+            "value": "IT05R0844111100000000064763",
+            "toast": "IBAN COPIATO ✓"
+          }
+        },
+        {
+          "text": "SWIFT/BIC:",
+          "lines": [""],
+          "copy": null
+        },
+        {
+          "text": "Come finalità dell’operazione, seleziona l’opzione equivalente a Donazione / Donation.",
+          "lines": [],
+          "copy": null
+        },
+        {
+          "text": "Inserisci l’importo.",
+          "lines": [],
+          "copy": null
+        },
+        {
+          "text": "Verifica cambio, commissioni e imposte indicati dalla banca/piattaforma.",
+          "lines": [],
+          "copy": null
+        },
+        {
+          "text": "Conferma il trasferimento.",
+          "lines": [],
+          "copy": null
+        }
+      ],
+      "note": "Commissioni, cambio e tempi possono variare a seconda della banca o della piattaforma utilizzata."
+    },
+    "afterDonation": {
+      "title": "Cosa succede dopo la donazione?",
+      "paragraphs": [
+        "Il tuo contributo entra a far parte delle risorse utilizzate per rendere possibili nuovi trattamenti.",
+        "Quando un percorso viene approvato, l’importo destinato alla protesizzazione viene indirizzato al trattamento svolto presso la clinica.",
+        "La persona attraversa le fasi di valutazione, protesizzazione, regolazioni e riabilitazione.",
+        "E vogliamo che tu possa continuare a seguire ciò che accade dopo."
+      ],
+      "ctaStories": "Scopri le storie"
+    },
+    "thanks": {
+      "title": "Grazie di farne parte",
+      "paragraphs": [
+        "Una donazione può sembrare solo un importo. Per qualcuno, si trasforma in un prossimo passo.",
+        "Grazie per aver scelto di fare parte de La Bellezza di Stare in Piedi."
+      ]
+    }
+  },
+  "transparency": {
+    "hero": {
+      "title": "La fiducia si costruisce anche mostrando come lavoriamo",
+      "paragraphs": [
+        "La Bellezza di Stare in Piedi crede che chi sceglie di sostenere una causa debba capire chi c’è dietro, come vengono utilizzate le risorse e in che modo una donazione si trasforma in un trattamento.",
+        "Per questo vogliamo rendere il nostro operato sempre più chiaro, accessibile e verificabile."
+      ]
+    },
+    "official": {
+      "title": "Chi siamo ufficialmente",
+      "name": "Fondazione La Bellezza di Stare in Piedi ETS",
+      "description": "Fondazione italiana iscritta al Registro Unico Nazionale del Terzo Settore, il RUNTS.",
+      "items": [
+        { "label": "Repertorio RUNTS:", "value": "175113" },
+        { "label": "Codice Fiscale:", "value": "95268550167" },
+        { "label": "Sede:", "value": "Bergamo, Italia" },
+        {
+          "label": "Legale rappresentante e Presidente:",
+          "value": "Maria Aparecida Freire Coutinho"
+        }
+      ]
+    },
+    "resources": {
+      "title": "Come vengono utilizzate le risorse",
+      "paragraphs": [
+        "Le donazioni ricevute dalla Fondazione aiutano a rendere possibili nuovi trattamenti.",
+        "Quando un percorso viene approvato, le risorse possono essere destinate a:"
+      ],
+      "list": [
+        "protesi",
+        "componenti protesici",
+        "fasi di protesizzazione",
+        "riabilitazione legata al trattamento."
+      ],
+      "after": [
+        "L’importo destinato a una protesi non viene consegnato direttamente alla persona beneficiaria.",
+        "Il pagamento è destinato al trattamento svolto presso la clinica responsabile del processo.",
+        "In questo modo la Fondazione può seguire l’impiego delle risorse all’interno del percorso approvato."
+      ]
+    },
+    "where": {
+      "title": "Dove si svolgono i trattamenti",
+      "intro": "Attualmente la Fondazione collabora con due cliniche specializzate in Brasile:",
+      "clinics": "Da Vinci e Bionicenter",
+      "paragraphs": [
+        "Le cliniche sono responsabili delle fasi tecniche del trattamento, come valutazione protesica, calchi, prove, regolazioni, realizzazione e riabilitazione.",
+        "La Fondazione rende possibili, dal punto di vista economico, i trattamenti approvati."
+      ]
+    },
+    "journey": {
+      "title": "Come una donazione si trasforma in un percorso",
+      "steps": [
+        {
+          "title": "La Fondazione riceve risorse",
+          "text": "Donazioni di persone, aziende, campagne e iniziative contribuiscono a formare la capacità di intervento."
+        },
+        {
+          "title": "Un caso viene analizzato",
+          "text": "La Fondazione valuta necessità, complessità, costo e risorse disponibili."
+        },
+        {
+          "title": "Il trattamento viene approvato",
+          "text": "Quando c’è la possibilità di procedere, il processo viene organizzato insieme alla clinica."
+        },
+        {
+          "title": "Le risorse vengono destinate al trattamento",
+          "text": "La Fondazione finanzia la protesi o il componente approvato."
+        },
+        {
+          "title": "La protesizzazione ha luogo",
+          "text": "La persona attraversa le fasi necessarie di calchi, prove, regolazioni e riabilitazione."
+        },
+        {
+          "title": "L’impatto continua a essere seguito",
+          "text": "Il percorso non finisce il giorno della consegna."
+        }
+      ]
+    },
+    "follow": {
+      "title": "Seguire fa parte anche della trasparenza",
+      "paragraphs": [
+        "Trasparenza non significa solo mostrare dei numeri.",
+        "Significa anche permettere a chi sostiene la Fondazione di capire cosa è successo dopo.",
+        "Per questo vogliamo seguire i percorsi nel tempo."
+      ],
+      "listIntro": "Mostrare:",
+      "list": [
+        "l’inizio del trattamento",
+        "la protesizzazione",
+        "la riabilitazione",
+        "l’adattamento",
+        "i prossimi capitoli."
+      ],
+      "closing": "Sempre nel rispetto dell’immagine, della storia e delle autorizzazioni delle persone coinvolte.",
+      "ctaStories": "Scopri le storie"
+    },
+    "tax": {
+      "title": "Donazioni con benefici fiscali",
+      "paragraphs": [
+        "Le donazioni effettuate alla Fondazione La Bellezza di Stare in Piedi ETS possono rientrare nei benefici fiscali previsti dalla normativa italiana per le donazioni destinate agli Enti del Terzo Settore.",
+        "Le condizioni possono variare in base al profilo del donatore e alla modalità della donazione.",
+        "Per verificare quale beneficio si applica al tuo caso, ti consigliamo di rivolgerti a un CAF o a un professionista fiscale."
+      ],
+      "ctaDonate": "Voglio fare una donazione"
+    },
+    "questions": {
+      "title": "Hai qualche domanda?",
+      "text": "Se hai bisogno di un’informazione istituzionale o desideri capire meglio l’attività della Fondazione, contattaci.",
+      "ctaContact": "Parla con la Fondazione"
+    }
+  },
+  "stories": {
+    "hero": {
+      "title": "Ogni persona arriva con una storia. E nessuna finisce con la consegna di una protesi",
+      "paragraphs": [
+        "Dietro ogni trattamento ci sono scelte, sfide, aspettative, conquiste e nuovi obiettivi.",
+        "In questa pagina vogliamo seguire questi percorsi così come accadono davvero.",
+        "Non solo il giorno in cui una protesi viene consegnata.",
+        "Ma anche gli allenamenti, gli adattamenti, le difficoltà, i primi movimenti, il ritorno a casa e tutto ciò che inizia ad accadere dopo.",
+        "Perché l’impatto di una protesi non sta solo nel dispositivo."
+      ],
+      "closing": "Sta nella vita che continua."
+    },
+    "listTitle": "Scopri i percorsi",
+    "people": [
+      {
+        "name": "Juliana",
+        "paragraphs": [
+          "Dopo un’amputazione causata da un incidente in moto, Juliana ha trovato la strada per ricostruire la sua mobilità e, più tardi, è arrivata alla Fondazione in una nuova fase del suo percorso.",
+          "Oggi utilizza un ginocchio elettronico ed è in fase di adattamento, mentre si prepara a ricevere la sua protesi definitiva.",
+          "Oltre alla sua storia personale, Juliana ha assunto un ruolo importante tra le ambasciatrici della Fondazione, aiutando ad avvicinare altre donne a questa rete."
+        ]
+      },
+      {
+        "name": "Isabela",
+        "paragraphs": [
+          "Madre di tre figli, Isabela ha dovuto affrontare un’amputazione dopo un percorso di salute complesso.",
+          "La fede ha avuto un ruolo importante nella sua ripresa e oggi una nuova fase della sua storia si svolge tra la riabilitazione, la maternità, la palestra e la scoperta di nuove possibilità con la protesi.",
+          "Più che imparare a camminare con un nuovo dispositivo, Isabela sta scoprendo come questo si inserisce nella vita che continua ad accadere intorno a lei."
+        ]
+      },
+      {
+        "name": "Malu",
+        "paragraphs": [
+          "Dopo un incidente in moto, Malu ha attraversato un percorso intenso che ha portato all’amputazione di una gamba.",
+          "Una delle sue sfide più grandi è stata imparare a riconoscere il proprio corpo e affrontare un nuovo rapporto con l’indipendenza.",
+          "Oggi utilizza un ginocchio elettronico e ha già superato la fase principale della riabilitazione.",
+          "Ora, tornata a casa, inizia un altro capitolo: trasformare tutto ciò che ha allenato in autonomia nella propria vita quotidiana."
+        ]
+      },
+      {
+        "name": "Ana",
+        "paragraphs": [
+          "Dopo un incidente in moto, Ana ha subito diversi interventi chirurgici e ha dovuto amputare una gamba.",
+          "Utilizzava già una protesi prima di arrivare alla nuova fase seguita dalla Fondazione.",
+          "Ora inizia un processo di adattamento al ginocchio elettronico, con valutazioni, regolazioni e protesizzazione insieme all’équipe responsabile del trattamento.",
+          "Ogni fase viene vissuta con i propri tempi."
+        ]
+      },
+      {
+        "name": "Millena",
+        "paragraphs": [
+          "Millena è stata amputata quando era ancora molto giovane.",
+          "Per anni ha convissuto con una protesi che non offriva il comfort necessario per la sua vita quotidiana.",
+          "Con il sostegno della Fondazione, ha ricevuto un ginocchio elettronico e ha affrontato una nuova fase di protesizzazione e riabilitazione.",
+          "La sua storia mostra qualcosa di importante: avere una protesi non significa necessariamente avere la soluzione adatta a quella persona.",
+          "Tecnologia, invasatura, adattamento e accompagnamento fanno anch’essi parte di questo percorso."
+        ]
+      },
+      {
+        "name": "Raiely",
+        "paragraphs": [
+          "Raiely utilizzava già una protesi prima di ricevere il nuovo ginocchio elettronico.",
+          "Appassionata di palestra e di movimento, vive un percorso strettamente legato a ciò che il corpo può imparare, sperimentare e conquistare con una nuova tecnologia.",
+          "Dopo la riabilitazione, la fase successiva si svolge proprio nella vita reale: negli allenamenti, nella quotidianità e in tutto ciò che desidera ancora sperimentare."
+        ]
+      }
+    ],
+    "follow": {
+      "title": "Seguire è anche un modo per farne parte",
+      "paragraphs": [
+        "Conoscendo queste storie, capisci dove arrivano le risorse della Fondazione e cosa succede dopo.",
+        "E puoi scegliere di fare parte dei prossimi capitoli."
+      ],
+      "ctaHelpUs": "Voglio aiutare"
+    }
+  },
+  "contact": {
+    "title": "Vuoi parlare con la Fondazione?",
+    "paragraphs": [
+      "Siamo a disposizione per ricevere domande, proposte di collaborazione, contatti istituzionali e altre informazioni relative all’attività de La Bellezza di Stare in Piedi.",
+      "Scegli qui sotto l’argomento del tuo messaggio, così che arrivi alla persona giusta."
+    ],
+    "formTitle": "Modulo di contatto",
+    "fields": {
+      "name": "Nome",
+      "email": "E-mail",
+      "phone": "Telefono / WhatsApp",
+      "country": "Paese",
+      "subject": "Argomento",
+      "message": "Messaggio"
+    },
+    "subjects": [
+      { "value": "donation", "label": "Voglio fare una donazione" },
+      { "value": "partnership", "label": "Voglio proporre una collaborazione" },
+      { "value": "company", "label": "Rappresento un’azienda" },
+      { "value": "event", "label": "Vorrei parlare di un evento" },
+      { "value": "institutional", "label": "Ho una domanda istituzionale" },
+      { "value": "press", "label": "Stampa" },
+      { "value": "other", "label": "Altro" }
+    ],
+    "submit": "Invia messaggio",
+    "success": "Abbiamo ricevuto la tua richiesta! Ti contatteremo a breve!"
+  },
+  "help": {
+    "intro": {
+      "title": "Raccontaci la tua storia",
+      "paragraphs": [
+        "Se hai bisogno di sostegno per accedere a una protesi o a un componente protesico, puoi inviare una richiesta a La Bellezza di Stare in Piedi.",
+        "Ogni caso viene analizzato individualmente in base alla necessità presentata, alla complessità del trattamento, al costo e alle risorse disponibili in quel momento."
+      ]
+    },
+    "before": {
+      "title": "Prima di inviare",
+      "paragraphs": [
+        "Vogliamo che questo processo sia semplice e chiaro.",
+        "In questa prima fase non è necessario inviare tutta la documentazione medica.",
+        "Iniziamo conoscendo te, la tua realtà e la tua necessità principale.",
+        "Se il caso passerà a una nuova fase di analisi, l’équipe potrà richiedere informazioni e documenti aggiuntivi."
+      ]
+    },
+    "start": "Inizia il modulo",
+    "progress": "Fase {current}/{total}",
+    "step1": {
+      "title": "Fase 1: Dati personali",
+      "subtitle": "Dati relativi alla persona amputata",
+      "fullName": "Nome e cognome",
+      "birthDate": "Data di nascita",
+      "city": "Città",
+      "state": "Stato",
+      "phone": "Telefono/WhatsApp",
+      "email": "E-mail",
+      "filledBy": "Compilato da",
+      "filledByOptions": [
+        { "value": "self", "label": "Me stesso/a" },
+        { "value": "guardian", "label": "Responsabile" }
+      ],
+      "guardianName": "Nome del responsabile"
+    },
+    "step2": {
+      "title": "Fase 2: L’amputazione",
+      "limbs": "Quale o quali arti sono stati amputati?",
+      "limbOptions": [
+        { "value": "rightLeg", "label": "Gamba destra" },
+        { "value": "leftLeg", "label": "Gamba sinistra" },
+        { "value": "rightArm", "label": "Braccio destro" },
+        { "value": "leftArm", "label": "Braccio sinistro" },
+        { "value": "other", "label": "Altro" }
+      ],
+      "level": "Qual è il livello dell’amputazione?",
+      "levelOptions": [
+        {
+          "value": "transfemoral",
+          "label": "Transfemorale (sopra il ginocchio)"
+        },
+        {
+          "value": "transtibial",
+          "label": "Transtibiale (sotto il ginocchio)"
+        },
+        {
+          "value": "kneeDisarticulation",
+          "label": "Disarticolazione di ginocchio"
+        },
+        { "value": "hipDisarticulation", "label": "Disarticolazione d’anca" },
+        { "value": "partialFoot", "label": "Parziale di piede" },
+        { "value": "upperLimb", "label": "Arto superiore" },
+        { "value": "unknown", "label": "Non lo so" },
+        { "value": "other", "label": "Altro" }
+      ],
+      "when": "Quando è avvenuta l’amputazione?",
+      "story": "Racconta brevemente cosa è successo",
+      "counter": "{count}/{max} caratteri"
+    },
+    "step3": {
+      "title": "Fase 3: Situazione attuale",
+      "yesNoOptions": [
+        { "value": "yes", "label": "SÌ" },
+        { "value": "no", "label": "NO" }
+      ],
+      "usesProsthesis": "Utilizzi attualmente una protesi?",
+      "fits": "La tua protesi risponde bene alle tue necessità oggi?",
+      "fitsOptions": [
+        { "value": "yes", "label": "Sì" },
+        { "value": "partially", "label": "In parte" },
+        { "value": "no", "label": "No" }
+      ],
+      "rehab": "Stai seguendo attualmente un percorso di riabilitazione?",
+      "followed": "Sei seguito/a da una clinica, un ospedale o un professionista?",
+      "followedBy": "Quale clinica, ospedale o professionista?"
+    },
+    "step4": {
+      "title": "Fase 4: Come può aiutarti La Bellezza?",
+      "needs": "Di cosa hai bisogno oggi?",
+      "needOptions": [
+        { "value": "first", "label": "Prima protesi" },
+        { "value": "replacement", "label": "Sostituzione della protesi" },
+        { "value": "component", "label": "Componente/Ginocchio più adatto" },
+        { "value": "fitting", "label": "Regolazione o nuova invasatura" },
+        { "value": "other", "label": "Altro" }
+      ],
+      "details": "Raccontaci un po’ di cosa hai bisogno oggi e di cosa questo aiuto potrebbe cambiare nella tua vita quotidiana"
+    },
+    "step5": {
+      "title": "Fase 5: Informazioni aggiuntive",
+      "source": "Come hai conosciuto La Bellezza?",
+      "sourceOptions": [
+        { "value": "instagram", "label": "Instagram" },
+        { "value": "ambassador", "label": "Ambasciatrice" },
+        { "value": "clinic", "label": "Clinica" },
+        { "value": "referral", "label": "Passaparola" },
+        { "value": "event", "label": "Evento" },
+        { "value": "other", "label": "Altro" }
+      ],
+      "instagram": "Instagram",
+      "extra": "C’è qualche informazione importante che vorresti aggiungere?",
+      "consent": {
+        "before": "Autorizzo l’utilizzo dei miei dati, compresi i dati sanitari, da parte della Fondazione La Bellezza di Stare in Piedi per l’analisi del mio caso, in conformità con la ",
+        "link": "Privacy Policy",
+        "after": ""
+      }
+    },
+    "submit": "Invia",
+    "success": {
+      "title": "Abbiamo ricevuto la tua richiesta 💚",
+      "paragraphs": [
+        "Ogni storia viene analizzata individualmente, considerando la necessità della persona e la disponibilità di risorse della Fondazione.",
+        "L’invio di questo modulo non costituisce garanzia di presa in carico.",
+        "Se sarà necessario proseguire la valutazione, la nostra équipe ti contatterà tramite i dati indicati."
+      ]
+    }
+  },
+  "partners": {
+    "hero": {
+      "title": "Anche la tua azienda può trasformare la solidarietà in possibilità concrete",
+      "paragraphs": [
+        "Ci sono diversi modi in cui un’azienda può fare parte de La Bellezza di Stare in Piedi.",
+        "Il sostegno può rafforzare l’attività della Fondazione nel suo insieme, finanziare un percorso specifico o dare vita a campagne, eventi e iniziative costruite insieme.",
+        "Più che associare un marchio a una causa, vogliamo costruire partnership in cui l’impatto possa essere seguito e compreso."
+      ],
+      "cta": "Voglio diventare partner"
+    },
+    "ways": {
+      "title": "Modi per sostenerci",
+      "paragraphs": [
+        "La tua azienda può contribuire direttamente all’attività della Fondazione.",
+        "Queste risorse aiutano ad ampliare la nostra capacità di rendere possibili nuovi trattamenti in base alle necessità analizzate e alle risorse disponibili.",
+        "È un modo per sostenere la missione in senso ampio e permettere alla Fondazione di avere più capacità di rispondere a nuove storie."
+      ]
+    },
+    "fund": {
+      "title": "Finanzia una protesi",
+      "paragraphs": [
+        "Le aziende possono anche destinare il proprio sostegno a un percorso specifico.",
+        "In questa modalità, il contributo è destinato al finanziamento di una protesi o di un componente protesico approvato dalla Fondazione.",
+        "Il processo si svolge insieme alle cliniche con cui collaboriamo, e l’azienda può seguire le principali tappe del percorso sostenuto."
+      ]
+    },
+    "campaigns": {
+      "title": "Campagne, eventi e iniziative",
+      "paragraphs": [
+        "Possiamo anche costruire azioni in collaborazione con aziende, gruppi e organizzazioni."
+      ],
+      "listIntro": "Alcuni esempi:",
+      "list": [
+        "campagne di sensibilizzazione e mobilitazione",
+        "eventi di beneficenza",
+        "iniziative interne con i collaboratori",
+        "iniziative di raccolta fondi",
+        "progetti speciali",
+        "partnership istituzionali"
+      ],
+      "closing": "Ogni proposta viene analizzata individualmente affinché abbia senso per la Fondazione, per l’azienda e, soprattutto, per l’impatto che vogliamo generare."
+    },
+    "outcomes": {
+      "title": "Cosa può generare una partnership",
+      "intro": "Il sostegno di un’azienda può contribuire a rendere possibili:",
+      "list": [
+        "nuove protesi e componenti protesici",
+        "nuovi percorsi di protesizzazione",
+        "accesso alla riabilitazione legata al trattamento",
+        "maggiore capacità di seguire nuovi casi",
+        "campagne di raccolta fondi e sensibilizzazione",
+        "connessioni tra persone, aziende e professionisti che credono nella stessa missione."
+      ]
+    },
+    "tracked": {
+      "title": "Un impatto che si può seguire",
+      "paragraphs": [
+        "Non vogliamo che una partnership finisca al momento della donazione.",
+        "Ogni volta che la modalità della partnership lo consente, e nel rispetto della privacy delle persone coinvolte, vogliamo mostrare cosa succede dopo."
+      ],
+      "listIntro": "Questo può includere:",
+      "list": [
+        "inizio della protesizzazione;",
+        "fasi del trattamento;",
+        "riabilitazione;",
+        "evoluzione del percorso;",
+        "storie e risultati;",
+        "materiali istituzionali sull’impatto."
+      ],
+      "closing": "Perché una partnership acquista più senso quando è possibile comprendere ciò che ha contribuito a realizzare."
+    },
+    "responsibility": {
+      "title": "Partnership costruite con responsabilità",
+      "paragraphs": [
+        "Ogni storia sostenuta coinvolge persone reali.",
+        "Per questo, qualsiasi comunicazione che riguardi beneficiari, immagini, informazioni personali o dati sanitari rispetterà le autorizzazioni esistenti e i limiti definiti dalla Fondazione.",
+        "L’obiettivo non è mai trasformare una persona in pubblicità.",
+        "È mostrare l’impatto con verità, dignità e rispetto."
+      ]
+    },
+    "bridge": {
+      "title": "Un ponte tra aziende, persone e impatto",
+      "paragraphs": [
+        "La Bellezza di Stare in Piedi collega risorse raccolte in Italia e in altri territori a percorsi di protesizzazione realizzati in Brasile.",
+        "La Fondazione indirizza le risorse al trattamento approvato, mentre le cliniche si occupano delle fasi tecniche della protesizzazione e della riabilitazione.",
+        "Questa struttura permette che il sostegno aziendale si trasformi in un’azione concreta."
+      ]
+    },
+    "form": {
+      "title": "La tua azienda può fare parte del prossimo capitolo",
+      "intro": "Se la tua azienda desidera sostenere la Fondazione, finanziare una protesi o costruire un’iniziativa con noi, vogliamo conoscere la proposta.",
+      "fields": {
+        "name": "Nome",
+        "company": "Azienda",
+        "role": "Ruolo",
+        "email": "E-mail",
+        "phone": "Telefono",
+        "country": "Paese",
+        "contribution": "Come vorresti contribuire?",
+        "idea": "Raccontaci un po’ la tua idea"
+      },
+      "contributionOptions": [
+        { "value": "institutional", "label": "Sostegno istituzionale" },
+        { "value": "prosthesis", "label": "Finanziare una protesi" },
+        { "value": "campaign", "label": "Campagna o evento" },
+        { "value": "other", "label": "Altra partnership" }
+      ],
+      "submit": "Invia contatto",
+      "success": "Abbiamo ricevuto la tua richiesta! Ti contatteremo a breve!"
+    }
+  }
+}

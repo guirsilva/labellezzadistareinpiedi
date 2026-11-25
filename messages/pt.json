@@ -1,0 +1,906 @@
+{
+  "meta": {
+    "siteName": "Fondazione La Bellezza di Stare in Piedi",
+    "description": "Financiamos próteses e reabilitação para ampliar possibilidades depois da amputação."
+  },
+  "nav": {
+    "home": "Home",
+    "transparency": "Transparência",
+    "stories": "Histórias",
+    "contact": "Contato",
+    "partners": "Parceiros",
+    "donate": "Doe",
+    "help": "Preciso de ajuda",
+    "languages": {
+      "pt": "PT",
+      "it": "IT"
+    }
+  },
+  "ui": {
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "mainNav": "Navegação principal",
+    "language": "Idioma",
+    "languageNames": {
+      "pt": "Português",
+      "it": "Italiano"
+    },
+    "back": "Voltar",
+    "logoAlt": "Logo da Fondazione La Bellezza di Stare in Piedi",
+    "next": "Próximo",
+    "previousStep": "Voltar para a etapa anterior",
+    "required": "Campo obrigatório",
+    "invalidEmail": "Informe um e-mail válido",
+    "selectAtLeastOne": "Selecione ao menos uma opção",
+    "otherPlaceholder": "Qual?",
+    "optional": "Opcional",
+    "photoOf": "Foto de {name}",
+    "notFoundTitle": "Página não encontrada",
+    "backHome": "Voltar para a Home"
+  },
+  "home": {
+    "hero": {
+      "title": "Da Itália ao Brasil, pela beleza de seguir em frente.",
+      "subtitle": "Financiamos próteses e reabilitação para ampliar possibilidades depois da amputação.",
+      "ctaHelpUs": "Quero ajudar",
+      "ctaNeedHelp": "Preciso de ajuda"
+    },
+    "institutional": {
+      "foundation": "Fundação italiana ETS",
+      "registeredPrefix": "Inscrita no",
+      "runts": "RUNTS",
+      "runtsTooltip": "Registro Oficial do Terceiro Setor Italiano",
+      "seat": "Sede em Bergamo",
+      "operation": "Atuação no Brasil"
+    },
+    "whatWeDo": {
+      "title": "O que fazemos",
+      "lead": "Uma prótese é parte da jornada. Não o fim dela.",
+      "text": "A La Bellezza di Stare in Piedi conecta recursos, tecnologia protética, clínicas especializadas e pessoas para tornar o acesso a uma prótese possível. Mas o nosso trabalho não termina na entrega.",
+      "pillars": [
+        {
+          "title": "Tecnologia Protética",
+          "text": "Financiamos próteses e componentes de acordo com a necessidade de cada pessoa e com os recursos disponíveis para o atendimento."
+        },
+        {
+          "title": "Reabilitação",
+          "text": "A protetização inclui o processo de adaptação e reabilitação realizado junto às clínicas responsáveis pelo atendimento."
+        },
+        {
+          "title": "Continuidade",
+          "text": "Acompanhamos as jornadas também depois da entrega, porque o impacto de uma prótese aparece naquilo que ela torna possível na vida real."
+        }
+      ]
+    },
+    "italyBrazil": {
+      "title": "Itália + Brasil",
+      "lead": "Uma Fundação italiana. Um impacto que atravessa fronteiras.",
+      "paragraphs": [
+        "A La Bellezza nasceu na Itália, mas carrega uma conexão profunda com o Brasil.",
+        "A história da nossa fundadora, brasileira de origem e italiana de adoção, aproximou duas realidades e deu origem a uma missão: ampliar o acesso de pessoas amputadas à tecnologia protética e à reabilitação.",
+        "Hoje, essa ponte conecta pessoas, recursos, clínicas e histórias entre os dois países."
+      ]
+    },
+    "whoWeAre": {
+      "title": "Quem somos",
+      "story": {
+        "title": "Uma história pessoal que se transformou em uma missão coletiva",
+        "paragraphs": [
+          "A La Bellezza di Stare in Piedi nasceu do encontro entre uma experiência profundamente pessoal e uma realidade que ainda limita o acesso de muitas pessoas à tecnologia protética.",
+          "Em abril de 2025, em Bergamo, Maria Aparecida Freire Coutinho, Bia, sofreu um grave acidente que resultou na amputação de sua perna direita.",
+          "A partir daquele momento, começou uma nova relação com o próprio corpo, com a mobilidade e com tudo o que existe por trás de uma protetização.",
+          "Mas foi durante esse processo que uma pergunta começou a ganhar espaço:"
+        ],
+        "question": "E quem não tem acesso às mesmas possibilidades?"
+      },
+      "purpose": {
+        "title": "Da experiência ao propósito",
+        "paragraphs": [
+          "Bia é brasileira de origem e construiu sua vida na Itália.",
+          "Ao viver pessoalmente o processo de amputação, protetização e reabilitação, aproximou-se ainda mais de uma realidade que já conhecia: para muitas pessoas no Brasil, o acesso a uma prótese adequada ainda pode ser difícil, caro ou simplesmente distante.",
+          "A própria experiência deixou de ser apenas uma história individual.",
+          "Ela passou a se transformar em uma forma de criar caminhos para outras pessoas."
+        ],
+        "closing": "Assim nasceu a Fondazione La Bellezza di Stare in Piedi."
+      },
+      "moreThan": {
+        "title": "Mais do que financiar uma prótese",
+        "intro": "Uma prótese pode representar coisas diferentes para cada pessoa.",
+        "meanings": [
+          "Para alguém, pode significar mais segurança para caminhar.",
+          "Para outra pessoa, voltar à academia.",
+          "Para outra, mais independência na rotina.",
+          "Para outra, simplesmente experimentar algo que ainda não tinha conseguido viver."
+        ],
+        "text": "Por isso, a La Bellezza acredita que cada jornada precisa ser vista de forma individual.",
+        "quote": "A prótese é a ferramenta. A história é o que ela devolve."
+      },
+      "network": {
+        "title": "Uma rede que torna cada jornada possível",
+        "paragraphs": [
+          "Nenhuma dessas histórias acontece sozinha.",
+          "A Fundação atua em conjunto com clínicas especializadas, profissionais, doadores, empresas e pessoas que escolhem contribuir para tornar novos atendimentos possíveis."
+        ],
+        "rolesIntro": "Cada parte dessa rede tem um papel.",
+        "roles": [
+          "A Fundação mobiliza e direciona os recursos.",
+          "As clínicas conduzem a avaliação protética, a confecção, os ajustes e a reabilitação.",
+          "E as pessoas apoiadas continuam sendo as protagonistas de suas próprias histórias."
+        ]
+      },
+      "founder": {
+        "title": "Quem está por trás da Fundação",
+        "name": "Maria Aparecida Freire Coutinho",
+        "role": "Fundadora e Presidente",
+        "photoName": "Bia",
+        "paragraphs": [
+          "A experiência pessoal de Bia com a amputação deu origem à ideia que se tornaria a La Bellezza di Stare in Piedi.",
+          "Hoje, seu papel ultrapassa a própria história.",
+          "À frente da Fundação, ela trabalha para conectar pessoas, recursos e oportunidades entre Itália e Brasil."
+        ]
+      },
+      "beauty": {
+        "title": "A beleza de seguir em frente",
+        "paragraphs": [
+          "O nome da Fundação fala sobre estar em pé.",
+          "Mas, para nós, isso nunca significou apenas caminhar."
+        ],
+        "list": [
+          "Significa ter escolhas.",
+          "Ter acesso.",
+          "Ter autonomia.",
+          "Continuar construindo planos."
+        ],
+        "closing": "E descobrir que ainda existem muitos próximos passos possíveis.",
+        "ctaHelpUs": "Quero ajudar",
+        "ctaStories": "Conheça as histórias"
+      }
+    },
+    "howWeHelp": {
+      "title": "Como ajudamos",
+      "intro": {
+        "title": "Cada jornada começa de um jeito diferente",
+        "paragraphs": [
+          "Não existe uma única história, uma única necessidade ou uma única solução.",
+          "Por isso, cada pedido recebido pela La Bellezza di Stare in Piedi é analisado de forma individual.",
+          "Levamos em consideração a necessidade da pessoa, a complexidade da protetização, o custo do atendimento e os recursos disponíveis naquele momento.",
+          "O objetivo é direcionar os recursos da Fundação para tornar possíveis atendimentos que realmente façam sentido para cada realidade."
+        ]
+      },
+      "howItWorks": {
+        "title": "Como funciona",
+        "steps": [
+          {
+            "title": "Conhecemos a história",
+            "paragraphs": [
+              "O primeiro passo é entender quem está buscando ajuda, qual é a situação atual e qual é a principal necessidade.",
+              "A partir dessas informações, a Fundação consegue avaliar se aquele caso pode avançar para uma análise mais aprofundada."
+            ],
+            "bullets": [],
+            "after": []
+          },
+          {
+            "title": "Avaliamos a necessidade",
+            "paragraphs": [
+              "Cada caso é analisado individualmente.",
+              "Consideramos fatores como:"
+            ],
+            "bullets": [
+              "tipo de necessidade protética;",
+              "complexidade do atendimento;",
+              "custo estimado;",
+              "momento da pessoa;",
+              "recursos disponíveis na Fundação."
+            ],
+            "after": [
+              "Não existe uma ordem automática ou uma fila baseada apenas na data de solicitação.",
+              "Cada situação é avaliada de acordo com a realidade daquele momento."
+            ]
+          },
+          {
+            "title": "Conectamos o atendimento à clínica",
+            "paragraphs": [
+              "Quando um caso é aprovado, a Fundação direciona a pessoa para uma das clínicas com quem atua.",
+              "São as equipes especializadas que conduzem a avaliação protética, os moldes, os testes, os ajustes e o processo de adaptação."
+            ],
+            "bullets": [],
+            "after": []
+          },
+          {
+            "title": "A Fundação financia a prótese",
+            "paragraphs": [
+              "A La Bellezza viabiliza financeiramente a prótese ou o componente aprovado para aquele atendimento.",
+              "O recurso é destinado diretamente ao processo realizado pela clínica.",
+              "A pessoa beneficiada não recebe o valor em dinheiro.",
+              "Dessa forma, conseguimos acompanhar de forma mais clara como o recurso é aplicado e em qual etapa do atendimento ele está sendo utilizado."
+            ],
+            "bullets": [],
+            "after": []
+          },
+          {
+            "title": "A reabilitação faz parte do processo",
+            "paragraphs": [
+              "Receber uma prótese não significa simplesmente colocá-la e sair andando.",
+              "Existe um período de adaptação.",
+              "A pessoa precisa aprender a entender o novo equipamento, ajustar movimentos, desenvolver segurança e adaptar a prótese à própria rotina.",
+              "Por isso, a reabilitação necessária para que a pessoa saia protetizada já faz parte do atendimento realizado pela clínica."
+            ],
+            "bullets": [],
+            "after": []
+          },
+          {
+            "title": "A jornada continua",
+            "paragraphs": [
+              "O nosso trabalho não precisa terminar quando a prótese é entregue.",
+              "Continuamos acompanhando as histórias, os avanços, as dificuldades e os próximos marcos.",
+              "É nesse momento que conseguimos enxergar o impacto real da tecnologia.",
+              "Não apenas no equipamento recebido, mas naquilo que começa a ser possível depois."
+            ],
+            "bullets": [],
+            "after": []
+          }
+        ]
+      },
+      "ctaStories": "Conheça as histórias"
+    },
+    "impact": {
+      "title": "Impacto",
+      "lead": "Impacto não é apenas aquilo que entregamos. É o que continua acontecendo depois.",
+      "intro": "Cada prótese financiada representa uma jornada diferente.",
+      "items": [
+        "Um treino que antes parecia distante.",
+        "Uma nova relação com o próprio corpo.",
+        "Mais segurança para se movimentar.",
+        "Mais independência na rotina."
+      ],
+      "closing": "Por isso, além de mostrar o que financiamos, queremos acompanhar o que esse acesso torna possível."
+    },
+    "finalCta": {
+      "title": "Ainda existem muitos próximos passos esperando para começar.",
+      "text": "Uma doação, uma parceria ou um compartilhamento pode aproximar uma nova pessoa do acesso à tecnologia protética e à reabilitação.",
+      "ctaHelpUs": "Quero ajudar",
+      "ctaStories": "Conheça as histórias"
+    }
+  },
+  "footer": {
+    "name": "Fondazione La Bellezza di Stare in Piedi ETS",
+    "address": "Via G. e G. Paglia, 3/A",
+    "fiscalCode": "Codice Fiscale 95268550167",
+    "seat": "Sede em Bergamo, Itália",
+    "phoneLabel": "Telefone:",
+    "phone": "+39 338 2475888",
+    "emailLabel": "E-mail:",
+    "email": "labellezzadistareinpiedi@gmail.com",
+    "instagramLabel": "Instagram:",
+    "instagram": "@labellezzadistareinpiedi",
+    "privacy": "Política de Privacidade & Cookies",
+    "transparency": "Transparência",
+    "help": "Preciso de ajuda"
+  },
+  "donate": {
+    "title": "Apoie a missão",
+    "intro": "Cada doação ajuda a ampliar a capacidade da La Bellezza di Stare in Piedi de financiar próteses, componentes protéticos e jornadas de reabilitação.",
+    "chooseItaly": "Doar da Itália",
+    "chooseBrazil": "Doar do Brasil",
+    "italy": {
+      "holderLabel": "Titolare/Beneficiario:",
+      "holder": "LA BELLEZZA DI STARE IN PIEDI",
+      "ibanLabel": "IBAN:",
+      "iban": "IT05R0844111100000000064763",
+      "copyIban": "Copia IBAN",
+      "ibanCopied": "IBAN COPIATO ✓",
+      "howTo": {
+        "title": "Come donare tramite bonifico",
+        "steps": [
+          {
+            "text": "Apri l’app o l’internet banking della tua banca.",
+            "lines": [],
+            "copy": null
+          },
+          {
+            "text": "Vai su *Bonifici / Pagamenti*.",
+            "lines": [],
+            "copy": null
+          },
+          {
+            "text": "Seleziona *Nuovo bonifico* o *Bonifico SEPA*.",
+            "lines": [],
+            "copy": null
+          },
+          {
+            "text": "Inserisci come beneficiario:",
+            "lines": [
+              "LA BELLEZZA DI STARE IN PIEDI",
+              "IBAN: IT05R0844111100000000064763"
+            ],
+            "copy": null
+          },
+          {
+            "text": "Scegli l’importo che desideri donare.",
+            "lines": [],
+            "copy": null
+          },
+          {
+            "text": "Nella causale inserisci:",
+            "lines": [
+              "Erogazione liberale - Fondazione La Bellezza di Stare in Piedi ETS"
+            ],
+            "copy": {
+              "label": "Copia causale",
+              "value": "Erogazione liberale - Fondazione La Bellezza di Stare in Piedi ETS",
+              "toast": "CAUSALE COPIATA ✓"
+            }
+          },
+          {
+            "text": "Controlla i dati e conferma il bonifico.",
+            "lines": [],
+            "copy": null
+          }
+        ]
+      },
+      "after": {
+        "title": "Dopo la donazione",
+        "text": "Puoi richiedere la ricevuta via e-mail cliccando sul pulsante qui sotto",
+        "cta": "Richiedi la ricevuta"
+      },
+      "receiptForm": {
+        "fields": {
+          "firstName": "Nome",
+          "lastName": "Cognome",
+          "fiscalCode": "Codice Fiscale",
+          "email": "E-mail",
+          "amount": "Importo donato",
+          "date": "Data del bonifico",
+          "attachment": "Contabile del bonifico (allegato facoltativo)"
+        },
+        "consent": {
+          "before": "Acconsento al trattamento dei miei dati personali da parte della Fondazione La Bellezza di Stare in Piedi ETS ai fini dell'emissione della ricevuta, secondo quanto indicato nell'",
+          "link": "Informativa sulla privacy",
+          "after": "."
+        },
+        "submit": "Invia richiesta",
+        "success": {
+          "title": "Richiesta ricevuta ✓",
+          "text": "Grazie! Ti invieremo la ricevuta all'indirizzo e-mail indicato."
+        },
+        "ui": {
+          "required": "Campo obbligatorio",
+          "invalidEmail": "Inserisci un indirizzo e-mail valido",
+          "chooseFile": "Scegli file",
+          "noFile": "Nessun file selezionato"
+        }
+      },
+      "tax": {
+        "title": "Benefici fiscali",
+        "lead": "La tua donazione può dare diritto a benefici fiscali in Italia.",
+        "paragraphs": [
+          "Le donazioni effettuate a favore della Fondazione La Bellezza di Stare in Piedi ETS possono rientrare nelle agevolazioni fiscali previste dalla normativa italiana per le erogazioni liberali agli Enti del Terzo Settore.",
+          "Le modalità e la percentuale applicabili possono variare in base al profilo del donatore e alla tipologia della donazione.",
+          "Per verificare quale agevolazione si applica al tuo caso, rivolgiti a un CAF o a un professionista fiscale."
+        ],
+        "link": "Scopri di più sui benefici fiscali"
+      }
+    },
+    "brazil": {
+      "intro": "Do Brasil, é possível apoiar a Fundação por meio de uma transferência internacional em euros para a conta italiana.",
+      "stepsTitle": "Passo-a-passo:",
+      "steps": [
+        {
+          "text": "Abra seu banco ou plataforma de remessa internacional.",
+          "lines": [],
+          "copy": null
+        },
+        {
+          "text": "Procure por Transferência internacional / Enviar dinheiro para o exterior / Câmbio.",
+          "lines": [],
+          "copy": null
+        },
+        {
+          "text": "Selecione:",
+          "lines": ["País: Itália", "Moeda: EUR"],
+          "copy": null
+        },
+        {
+          "text": "Beneficiário:",
+          "lines": ["LA BELLEZZA DI STARE IN PIEDI"],
+          "copy": null
+        },
+        {
+          "text": "IBAN:",
+          "lines": ["IT05R0844111100000000064763"],
+          "copy": {
+            "label": "Copiar IBAN",
+            "value": "IT05R0844111100000000064763",
+            "toast": "IBAN COPIADO ✓"
+          }
+        },
+        {
+          "text": "SWIFT/BIC:",
+          "lines": [""],
+          "copy": null
+        },
+        {
+          "text": "Na finalidade da operação, selecionar a opção equivalente a Doação / Donation.",
+          "lines": [],
+          "copy": null
+        },
+        {
+          "text": "Informar o valor.",
+          "lines": [],
+          "copy": null
+        },
+        {
+          "text": "Conferir câmbio, taxas e tributos mostrados pelo próprio banco/plataforma.",
+          "lines": [],
+          "copy": null
+        },
+        {
+          "text": "Confirmar a transferência.",
+          "lines": [],
+          "copy": null
+        }
+      ],
+      "note": "Taxas, câmbio e prazos podem variar de acordo com o banco ou plataforma utilizada."
+    },
+    "afterDonation": {
+      "title": "O que acontece depois da doação?",
+      "paragraphs": [
+        "Sua contribuição passa a fazer parte dos recursos utilizados para tornar novos atendimentos possíveis.",
+        "Quando uma jornada é aprovada, o valor destinado à protetização é direcionado ao atendimento realizado junto à clínica.",
+        "A pessoa passa pelas etapas de avaliação, protetização, ajustes e reabilitação.",
+        "E queremos que você possa continuar acompanhando o que acontece depois."
+      ],
+      "ctaStories": "Conheça as histórias"
+    },
+    "thanks": {
+      "title": "Obrigado por fazer parte",
+      "paragraphs": [
+        "Uma doação pode parecer apenas um valor. Para alguém, ela se transforma em um próximo passo.",
+        "Obrigado por escolher fazer parte da La Bellezza di Stare in Piedi."
+      ]
+    }
+  },
+  "transparency": {
+    "hero": {
+      "title": "Confiança também se constrói mostrando como fazemos",
+      "paragraphs": [
+        "A La Bellezza di Stare in Piedi acredita que quem escolhe apoiar uma causa precisa entender quem está por trás dela, como os recursos são utilizados e de que forma uma doação se transforma em atendimento.",
+        "Por isso, queremos tornar nossa atuação cada vez mais clara, acessível e acompanhável."
+      ]
+    },
+    "official": {
+      "title": "Quem somos oficialmente",
+      "name": "Fondazione La Bellezza di Stare in Piedi ETS",
+      "description": "Fundação italiana inscrita no Registro Único Nacional do Terceiro Setor, o RUNTS.",
+      "items": [
+        { "label": "Repertório RUNTS:", "value": "175113" },
+        { "label": "Codice Fiscale:", "value": "95268550167" },
+        { "label": "Sede:", "value": "Bergamo, Itália" },
+        {
+          "label": "Representante legal e Presidente:",
+          "value": "Maria Aparecida Freire Coutinho"
+        }
+      ]
+    },
+    "resources": {
+      "title": "Como os recursos são utilizados",
+      "paragraphs": [
+        "As doações recebidas pela Fundação ajudam a tornar possíveis novos atendimentos.",
+        "Quando uma jornada é aprovada, os recursos podem ser direcionados para:"
+      ],
+      "list": [
+        "próteses",
+        "componentes protéticos",
+        "etapas de protetização",
+        "reabilitação vinculada ao atendimento."
+      ],
+      "after": [
+        "O valor destinado a uma prótese não é entregue diretamente à pessoa beneficiada.",
+        "O pagamento é direcionado ao atendimento realizado junto à clínica responsável pelo processo.",
+        "Dessa forma, a Fundação consegue acompanhar a aplicação do recurso dentro da jornada aprovada."
+      ]
+    },
+    "where": {
+      "title": "Onde os atendimentos acontecem",
+      "intro": "Atualmente, a Fundação atua junto a duas clínicas especializadas no Brasil:",
+      "clinics": "Da Vinci e Bionicenter",
+      "paragraphs": [
+        "As clínicas são responsáveis pelas etapas técnicas do atendimento, como avaliação protética, moldes, testes, ajustes, confecção e reabilitação.",
+        "A Fundação viabiliza financeiramente os atendimentos aprovados."
+      ]
+    },
+    "journey": {
+      "title": "Como uma doação se transforma em uma jornada",
+      "steps": [
+        {
+          "title": "A Fundação recebe recursos",
+          "text": "Doações de pessoas, empresas, campanhas e iniciativas ajudam a formar a capacidade de atendimento."
+        },
+        {
+          "title": "Um caso é analisado",
+          "text": "A Fundação avalia a necessidade, complexidade, custo e recursos disponíveis."
+        },
+        {
+          "title": "O atendimento é aprovado",
+          "text": "Quando existe possibilidade de seguir, o processo é organizado junto à clínica."
+        },
+        {
+          "title": "O recurso é direcionado ao atendimento",
+          "text": "A Fundação financia a prótese ou componente aprovado."
+        },
+        {
+          "title": "A protetização acontece",
+          "text": "A pessoa passa pelas etapas necessárias de moldes, testes, ajustes e reabilitação."
+        },
+        {
+          "title": "O impacto continua sendo acompanhado",
+          "text": "A jornada não termina no dia da entrega."
+        }
+      ]
+    },
+    "follow": {
+      "title": "Acompanhar também faz parte da transparência",
+      "paragraphs": [
+        "Transparência não significa apenas mostrar números.",
+        "Também significa permitir que quem apoia a Fundação entenda o que aconteceu depois.",
+        "Por isso, queremos acompanhar as jornadas ao longo do tempo."
+      ],
+      "listIntro": "Mostrar:",
+      "list": [
+        "o início do atendimento",
+        "a protetização",
+        "a reabilitação",
+        "a adaptação",
+        "os próximos capítulos."
+      ],
+      "closing": "Sempre respeitando a imagem, a história e as autorizações das pessoas envolvidas.",
+      "ctaStories": "Conheça as histórias"
+    },
+    "tax": {
+      "title": "Doações com benefício fiscal",
+      "paragraphs": [
+        "As doações realizadas à Fondazione La Bellezza di Stare in Piedi ETS podem se enquadrar nos benefícios fiscais previstos pela legislação italiana para doações destinadas a Entidades do Terceiro Setor.",
+        "As condições podem variar de acordo com o perfil do doador e a forma da doação.",
+        "Para verificar qual benefício é aplicável ao seu caso, recomendamos consultar um CAF ou profissional fiscal."
+      ],
+      "ctaDonate": "Quero fazer uma doação"
+    },
+    "questions": {
+      "title": "Tem alguma dúvida?",
+      "text": "Se você precisa de uma informação institucional ou deseja entender melhor a atuação da Fundação, entre em contato conosco.",
+      "ctaContact": "Falar com a Fundação"
+    }
+  },
+  "stories": {
+    "hero": {
+      "title": "Cada pessoa chega com uma história. E nenhuma termina na entrega de uma prótese",
+      "paragraphs": [
+        "Por trás de cada atendimento existem escolhas, desafios, expectativas, conquistas e novos objetivos.",
+        "Nesta página, queremos acompanhar essas jornadas como elas realmente acontecem.",
+        "Não apenas o dia em que uma prótese é entregue.",
+        "Mas também os treinos, as adaptações, as dificuldades, os primeiros movimentos, a volta para casa e tudo o que começa a acontecer depois.",
+        "Porque o impacto de uma prótese não está apenas no equipamento."
+      ],
+      "closing": "Está na vida que continua."
+    },
+    "listTitle": "Conheça as jornadas",
+    "people": [
+      {
+        "name": "Juliana",
+        "paragraphs": [
+          "Depois de uma amputação decorrente de um acidente de moto, Juliana encontrou caminhos para reconstruir sua mobilidade e, mais tarde, chegou à Fundação em uma nova etapa da sua jornada.",
+          "Hoje, utiliza um joelho eletrônico e segue em processo de adaptação, enquanto se prepara para receber sua prótese definitiva.",
+          "Além da própria história, Juliana também passou a ter um papel importante entre as embaixadoras da Fundação, ajudando a aproximar outras mulheres dessa rede."
+        ]
+      },
+      {
+        "name": "Isabela",
+        "paragraphs": [
+          "Mãe de três filhos, Isabela precisou passar por uma amputação depois de um processo de saúde complexo.",
+          "A fé teve um papel importante em sua recuperação e, hoje, uma nova fase da sua história acontece entre a reabilitação, a maternidade, a academia e a descoberta de novas possibilidades com a prótese.",
+          "Mais do que aprender a caminhar com um novo equipamento, Isabela está descobrindo como ele se encaixa na vida que continua acontecendo ao seu redor."
+        ]
+      },
+      {
+        "name": "Malu",
+        "paragraphs": [
+          "Depois de um acidente de moto, Malu passou por um processo intenso que resultou na amputação de uma das pernas.",
+          "Um dos seus maiores desafios foi aprender a reconhecer o próprio corpo e lidar com uma nova relação com a independência.",
+          "Hoje, utiliza um joelho eletrônico e já passou pela etapa principal de reabilitação.",
+          "Agora, de volta para casa, começa outro capítulo: transformar tudo o que treinou em autonomia dentro da própria rotina."
+        ]
+      },
+      {
+        "name": "Ana",
+        "paragraphs": [
+          "Depois de um acidente de moto, Ana passou por diversas cirurgias e precisou amputar uma das pernas.",
+          "Ela já utilizava prótese antes de chegar à nova etapa acompanhada pela Fundação.",
+          "Agora, começa um processo de adaptação ao joelho eletrônico, com avaliações, ajustes e protetização junto à equipe responsável pelo atendimento.",
+          "Cada etapa é vivida no próprio ritmo."
+        ]
+      },
+      {
+        "name": "Millena",
+        "paragraphs": [
+          "Millena foi amputada ainda muito jovem.",
+          "Durante anos, conviveu com uma prótese que não oferecia o conforto necessário para a sua rotina.",
+          "Com o apoio da Fundação, recebeu um joelho eletrônico e passou por uma nova etapa de protetização e reabilitação.",
+          "A história dela mostra algo importante: ter uma prótese não significa necessariamente ter a solução adequada para aquela pessoa.",
+          "Tecnologia, encaixe, adaptação e acompanhamento também fazem parte dessa jornada."
+        ]
+      },
+      {
+        "name": "Raiely",
+        "paragraphs": [
+          "Raiely já utilizava prótese antes de receber o novo joelho eletrônico.",
+          "Apaixonada por academia e movimento, vive uma jornada muito ligada ao que o corpo pode aprender, experimentar e conquistar com uma nova tecnologia.",
+          "Depois da reabilitação, a próxima etapa acontece justamente na vida real: nos treinos, na rotina e em tudo aquilo que ela ainda quer experimentar."
+        ]
+      }
+    ],
+    "follow": {
+      "title": "Acompanhar também é uma forma de fazer parte",
+      "paragraphs": [
+        "Ao conhecer essas histórias, você entende onde os recursos da Fundação chegam e o que acontece depois.",
+        "E pode escolher fazer parte dos próximos capítulos."
+      ],
+      "ctaHelpUs": "Quero ajudar"
+    }
+  },
+  "contact": {
+    "title": "Quer falar com a Fundação?",
+    "paragraphs": [
+      "Estamos à disposição para receber dúvidas, propostas de parceria, contatos institucionais e outras informações relacionadas à atuação da La Bellezza di Stare in Piedi.",
+      "Escolha abaixo o assunto do seu contato para que a mensagem chegue ao caminho certo."
+    ],
+    "formTitle": "Formulário de contato",
+    "fields": {
+      "name": "Nome",
+      "email": "E-mail",
+      "phone": "Telefone / WhatsApp",
+      "country": "País",
+      "subject": "Assunto",
+      "message": "Mensagem"
+    },
+    "subjects": [
+      { "value": "donation", "label": "Quero fazer uma doação" },
+      { "value": "partnership", "label": "Quero propor uma parceria" },
+      { "value": "company", "label": "Represento uma empresa" },
+      { "value": "event", "label": "Quero falar sobre um evento" },
+      { "value": "institutional", "label": "Tenho uma dúvida institucional" },
+      { "value": "press", "label": "Imprensa" },
+      { "value": "other", "label": "Outro" }
+    ],
+    "submit": "Enviar mensagem",
+    "success": "Recebemos sua solicitação! Entraremos em contato em breve!"
+  },
+  "help": {
+    "intro": {
+      "title": "Conte a sua história para a gente",
+      "paragraphs": [
+        "Se você precisa de apoio para ter acesso a uma prótese ou componente protético, pode enviar uma solicitação para a La Bellezza di Stare in Piedi.",
+        "Cada caso é analisado individualmente de acordo com a necessidade apresentada, a complexidade do atendimento, o custo e os recursos disponíveis naquele momento."
+      ]
+    },
+    "before": {
+      "title": "Antes de enviar",
+      "paragraphs": [
+        "Queremos que esse processo seja simples e claro.",
+        "Nesta primeira etapa, não é necessário enviar toda a documentação médica.",
+        "Vamos começar conhecendo você, sua realidade e sua principal necessidade.",
+        "Se o caso avançar para uma nova etapa de análise, a equipe poderá solicitar informações e documentos complementares."
+      ]
+    },
+    "start": "Iniciar formulário",
+    "progress": "Etapa {current}/{total}",
+    "step1": {
+      "title": "Etapa 1: Dados pessoais",
+      "subtitle": "Dados referentes à pessoa amputada",
+      "fullName": "Nome completo",
+      "birthDate": "Data de nascimento",
+      "city": "Cidade",
+      "state": "Estado",
+      "phone": "Telefone/WhatsApp",
+      "email": "E-mail",
+      "filledBy": "Preenchido por",
+      "filledByOptions": [
+        { "value": "self", "label": "Eu mesmo" },
+        { "value": "guardian", "label": "Responsável" }
+      ],
+      "guardianName": "Nome do responsável"
+    },
+    "step2": {
+      "title": "Etapa 2: Sobre a amputação",
+      "limbs": "Qual ou quais membros foram amputados?",
+      "limbOptions": [
+        { "value": "rightLeg", "label": "Perna direita" },
+        { "value": "leftLeg", "label": "Perna esquerda" },
+        { "value": "rightArm", "label": "Braço direito" },
+        { "value": "leftArm", "label": "Braço esquerdo" },
+        { "value": "other", "label": "Outro" }
+      ],
+      "level": "Qual o nível da amputação?",
+      "levelOptions": [
+        { "value": "transfemoral", "label": "Transfemoral (acima do joelho)" },
+        { "value": "transtibial", "label": "Transtibial (abaixo do joelho)" },
+        { "value": "kneeDisarticulation", "label": "Desarticulação de joelho" },
+        { "value": "hipDisarticulation", "label": "Desarticulação de quadril" },
+        { "value": "partialFoot", "label": "Parcial de pé" },
+        { "value": "upperLimb", "label": "Membro superior" },
+        { "value": "unknown", "label": "Não sei" },
+        { "value": "other", "label": "Outro" }
+      ],
+      "when": "Quando aconteceu a amputação?",
+      "story": "Conte brevemente o que aconteceu",
+      "counter": "{count}/{max} caracteres"
+    },
+    "step3": {
+      "title": "Etapa 3: Situação atual",
+      "yesNoOptions": [
+        { "value": "yes", "label": "SIM" },
+        { "value": "no", "label": "NÃO" }
+      ],
+      "usesProsthesis": "Você utiliza prótese atualmente?",
+      "fits": "Sua prótese atende bem às suas necessidades hoje?",
+      "fitsOptions": [
+        { "value": "yes", "label": "Sim" },
+        { "value": "partially", "label": "Parcialmente" },
+        { "value": "no", "label": "Não" }
+      ],
+      "rehab": "Você está em processo de reabilitação atualmente?",
+      "followed": "Você é acompanhado por alguma clínica, hospital ou profissional?",
+      "followedBy": "Qual clínica, hospital ou profissional?"
+    },
+    "step4": {
+      "title": "Etapa 4: Como a La Bellezza pode ajudar?",
+      "needs": "O que você precisa hoje?",
+      "needOptions": [
+        { "value": "first", "label": "Primeira prótese" },
+        { "value": "replacement", "label": "Substituição de prótese" },
+        { "value": "component", "label": "Componente/Joelho mais adequado" },
+        { "value": "fitting", "label": "Ajuste ou novo encaixe" },
+        { "value": "other", "label": "Outro" }
+      ],
+      "details": "Conte um pouco sobre o que você precisa hoje e o que essa ajuda poderia mudar na sua rotina"
+    },
+    "step5": {
+      "title": "Etapa 5: Informações complementares",
+      "source": "Como conheceu a La Bellezza?",
+      "sourceOptions": [
+        { "value": "instagram", "label": "Instagram" },
+        { "value": "ambassador", "label": "Embaixadora" },
+        { "value": "clinic", "label": "Clínica" },
+        { "value": "referral", "label": "Indicação" },
+        { "value": "event", "label": "Evento" },
+        { "value": "other", "label": "Outro" }
+      ],
+      "instagram": "Instagram",
+      "extra": "Existe alguma informação importante que gostaria de acrescentar?",
+      "consent": {
+        "before": "Eu autorizo que os meus dados, incluindo dados de saúde, sejam utilizados pela fundação La Bellezza di Stare In Piedi para a análise do meu caso, de acordo com a ",
+        "link": "Política de Privacidade",
+        "after": ""
+      }
+    },
+    "submit": "Enviar",
+    "success": {
+      "title": "Recebemos sua solicitação 💚",
+      "paragraphs": [
+        "Cada história é analisada individualmente, considerando a necessidade da pessoa e a disponibilidade de recursos da Fundação.",
+        "O envio deste formulário não representa garantia de atendimento.",
+        "Caso seja necessário continuar a avaliação, nossa equipe entrará em contato pelos dados informados."
+      ]
+    }
+  },
+  "partners": {
+    "hero": {
+      "title": "Sua empresa também pode transformar solidariedade em possibilidades reais",
+      "paragraphs": [
+        "Existem diferentes maneiras de uma empresa fazer parte da La Bellezza di Stare in Piedi.",
+        "O apoio pode fortalecer a atuação da Fundação como um todo, financiar uma jornada específica ou dar origem a campanhas, eventos e iniciativas construídas em conjunto.",
+        "Mais do que associar uma marca a uma causa, queremos construir parcerias em que o impacto possa ser acompanhado e compreendido."
+      ],
+      "cta": "Quero ser parceiro"
+    },
+    "ways": {
+      "title": "Formas de apoiar",
+      "paragraphs": [
+        "Sua empresa pode contribuir diretamente com a atuação da Fundação.",
+        "Esses recursos ajudam a ampliar nossa capacidade de viabilizar novos atendimentos de acordo com as necessidades analisadas e os recursos disponíveis.",
+        "É uma forma de apoiar a missão de maneira ampla e permitir que a Fundação tenha mais capacidade para responder a novas histórias."
+      ]
+    },
+    "fund": {
+      "title": "Financie uma prótese",
+      "paragraphs": [
+        "Empresas também podem direcionar seu apoio para uma jornada específica.",
+        "Nesse formato, a contribuição é destinada ao financiamento de uma prótese ou componente protético aprovado pela Fundação.",
+        "O processo acontece junto às clínicas com quem atuamos, e a empresa pode acompanhar os principais marcos da jornada apoiada."
+      ]
+    },
+    "campaigns": {
+      "title": "Campanhas, eventos e iniciativas",
+      "paragraphs": [
+        "Também podemos construir ações em parceria com empresas, grupos e organizações."
+      ],
+      "listIntro": "Alguns exemplos:",
+      "list": [
+        "campanhas de mobilização",
+        "eventos beneficentes",
+        "ações internas com colaboradores",
+        "iniciativas de arrecadação",
+        "projetos especiais",
+        "parcerias institucionais"
+      ],
+      "closing": "Cada proposta é analisada individualmente para que faça sentido para a Fundação, para a empresa e, principalmente, para o impacto que queremos gerar."
+    },
+    "outcomes": {
+      "title": "O que uma parceria pode gerar",
+      "intro": "O apoio de uma empresa pode ajudar a tornar possíveis:",
+      "list": [
+        "novas próteses e componentes protéticos",
+        "novas jornadas de protetização",
+        "acesso à reabilitação vinculada ao atendimento",
+        "mais capacidade para atender novos casos",
+        "campanhas de arrecadação e conscientização",
+        "conexões entre pessoas, empresas e profissionais que acreditam na mesma missão."
+      ]
+    },
+    "tracked": {
+      "title": "Impacto que pode ser acompanhado",
+      "paragraphs": [
+        "Não queremos que uma parceria termine no momento da doação.",
+        "Sempre que o formato da parceria permitir e respeitando a privacidade das pessoas envolvidas, queremos mostrar o que acontece depois."
+      ],
+      "listIntro": "Isso pode incluir:",
+      "list": [
+        "início da protetização;",
+        "etapas do atendimento;",
+        "reabilitação;",
+        "evolução da jornada;",
+        "histórias e resultados;",
+        "materiais institucionais de impacto."
+      ],
+      "closing": "Porque uma parceria ganha mais sentido quando é possível compreender o que ela ajudou a tornar realidade."
+    },
+    "responsibility": {
+      "title": "Parcerias construídas com responsabilidade",
+      "paragraphs": [
+        "Cada história apoiada envolve pessoas reais.",
+        "Por isso, qualquer comunicação envolvendo beneficiários, imagens, informações pessoais ou dados de saúde respeitará as autorizações existentes e os limites definidos pela Fundação.",
+        "O objetivo nunca é transformar uma pessoa em propaganda.",
+        "É mostrar impacto com verdade, dignidade e respeito."
+      ]
+    },
+    "bridge": {
+      "title": "Uma ponte entre empresas, pessoas e impacto",
+      "paragraphs": [
+        "A La Bellezza di Stare in Piedi conecta recursos mobilizados na Itália e em outros territórios a jornadas de protetização realizadas no Brasil.",
+        "A Fundação direciona os recursos para o atendimento aprovado, enquanto as clínicas conduzem as etapas técnicas da protetização e da reabilitação.",
+        "Essa estrutura permite que o apoio empresarial se transforme em uma ação concreta."
+      ]
+    },
+    "form": {
+      "title": "Sua empresa pode fazer parte do próximo capítulo",
+      "intro": "Se sua empresa deseja apoiar a Fundação, financiar uma prótese ou construir uma iniciativa conosco, queremos conhecer a proposta.",
+      "fields": {
+        "name": "Nome",
+        "company": "Empresa",
+        "role": "Cargo",
+        "email": "E-mail",
+        "phone": "Telefone",
+        "country": "País",
+        "contribution": "Como gostaria de contribuir?",
+        "idea": "Conte um pouco sobre a ideia"
+      },
+      "contributionOptions": [
+        { "value": "institutional", "label": "Apoio institucional" },
+        { "value": "prosthesis", "label": "Financiar uma prótese" },
+        { "value": "campaign", "label": "Campanha ou evento" },
+        { "value": "other", "label": "Outra parceria" }
+      ],
+      "submit": "Enviar contato",
+      "success": "Recebemos sua solicitação! Entraremos em contato em breve!"
+    }
+  }
+}
